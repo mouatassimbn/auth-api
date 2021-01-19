@@ -1,0 +1,19 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "a simple auth microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouatassimbn/auth-api.git"
+  },
+  "author": "mouatassim boulahsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouatassimbn/auth-api/issues"
+  },
+  "homepage": "https://github.com/mouatassimbn/auth-api#readme"
+}
